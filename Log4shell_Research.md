@@ -1,4 +1,4 @@
-# Nghiên cứu lỗ hổng Log4shell
+# Nghiên cứu lỗ hổng CVE-2021-44228 (Log4shell)
 
 # **1. Mã khai thác**
 
